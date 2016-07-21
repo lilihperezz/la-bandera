@@ -1,0 +1,21 @@
+.primero{
+	     display: block;
+	     background-color:#FFFF00;
+	     height: 100px;	     
+
+}
+.segundo{
+         display:block;
+         background-color:#ED2251;
+	     height: 100px;     
+
+}
+.tercero{
+         display: block;
+         background-color:#FFFF00;
+	     height: 100px;
+}
+p{
+	margin: 0%;
+	
+}
